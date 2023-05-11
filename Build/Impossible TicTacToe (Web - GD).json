@@ -1,0 +1,12 @@
+{
+"companyName": "KasSanity",
+"productName": "Impossible Tic-Tac-Toe",
+"dataUrl": "https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/ty66@main/Build/Impossible%20TicTacToe%20(Web%20-%20GD).data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/ty66@main/Build/Impossible%20TicTacToe%20(Web%20-%20GD).wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/ty66@main/Build/Impossible%20TicTacToe%20(Web%20-%20GD).wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
